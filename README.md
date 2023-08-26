@@ -22,7 +22,7 @@ Before using the script, you need to obtain your Instagram data in JSON format. 
 
 ### Python Setup
 
-- Python 3.11
+- Python 3.8+
 - Tkinter (standard library in Python, no need to install separately)
 
 ## Getting Started
@@ -37,7 +37,7 @@ Before using the script, you need to obtain your Instagram data in JSON format. 
 ```
 3. Run the script:
 ```
-  python convert_instagram_follow.py
+  python insta_converter.py
 ```
 4. Follow the instructions in the GUI to select the JSON files and generate the CSV output.
 
