@@ -28,14 +28,17 @@ Before using the script, you need to obtain your Instagram data in JSON format. 
 ## Getting Started
 
 1. Clone the repository to your local machine:
-git clone https://github.com/wolfgang-azevedo/instagram_converter.git
-
+```
+  $ git clone https://github.com/wolfgang-azevedo/instagram_converter.git
+```
 2. Navigate to the project directory:
-cd path-to-project-directory
-
+```
+  $ cd path-to-project-directory
+```
 3. Run the script:
-python convert_instagram_follow.py
-
+```
+  python convert_instagram_follow.py
+```
 4. Follow the instructions in the GUI to select the JSON files and generate the CSV output.
 
 ## Modules Used
