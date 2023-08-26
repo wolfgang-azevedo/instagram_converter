@@ -29,11 +29,11 @@ Before using the script, you need to obtain your Instagram data in JSON format. 
 
 1. Clone the repository to your local machine:
 ```
-  $ git clone https://github.com/wolfgang-azevedo/instagram_converter.git
+  git clone https://github.com/wolfgang-azevedo/instagram_converter.git
 ```
 2. Navigate to the project directory:
 ```
-  $ cd path-to-project-directory
+  cd path-to-project-directory
 ```
 3. Run the script:
 ```
